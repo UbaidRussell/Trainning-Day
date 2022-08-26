@@ -1,7 +1,7 @@
 const name = 'Nala';
 // The scope of `random` is too loose 
 
-
+//This function gets the event at random
 const getRandEvent = () => {
   const random = Math.floor(Math.random() * 3);
 
