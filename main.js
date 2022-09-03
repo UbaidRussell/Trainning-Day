@@ -1,3 +1,5 @@
+//Look into:
+
 const name = 'Nala';
 // The scope of `random` is too loose 
 
